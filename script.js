@@ -1,4 +1,4 @@
-drawn = () => {
+draw = () => {
   var canvas = document.getElementById('canvas');
   var m = document.getElementById('multiplier').value;
   var p = document.getElementById('modulus').value * 10;
